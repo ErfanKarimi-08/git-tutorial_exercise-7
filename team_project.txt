@@ -2,3 +2,4 @@ Team project
 Version 1.0
 Feature A implemented.
 Feature B implemented.
+Feature C will be added in the future.
